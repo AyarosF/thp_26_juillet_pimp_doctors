@@ -1,4 +1,4 @@
-# The Hacking News - projet THP 25 juillet 2018
+# Pimp des docteurs - projet THP 25 juillet 2018
 
 ## Après avoir cloné le repo
 
