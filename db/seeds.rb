@@ -27,7 +27,7 @@ end
 end
 
 60.times do
-  Appointment.create(date: Faker::Date.forward(200).to_datetime, doctor_id: rand(30), patient_id: rand(50))
+  Appointment.create(date: Faker::Date.forward(200).to_datetime, doctor_id: rand(30), patient_id: rand(50), city_id:rand(15))
 end
 
 for i in (1..Doctor.all.count)
